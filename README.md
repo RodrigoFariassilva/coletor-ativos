@@ -28,5 +28,5 @@ Automação para coleta, consolidação e exportação de dados financeiros a pa
 ## 📦 Instalação
 Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/coletor-ativos.git
+git clone https://github.com/RodrigoFariassilva/coletor-ativos.git
 cd coletor-ativos
