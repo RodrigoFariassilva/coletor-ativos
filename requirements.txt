@@ -1,0 +1,5 @@
+pandas
+pdfplumber
+rich
+pywin32
+openpyxl
